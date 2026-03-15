@@ -1,0 +1,15 @@
+{
+  "source_file": "/Users/monokeros/Project/Coding/CopySelector/test/参考文件.xlsx",
+  "target_file": "/Users/monokeros/Project/Coding/CopySelector/workspace/结果文件.xlsx",
+  "source_config": {
+    "category_row": 1,
+    "indicator_start_row": 3
+  },
+  "target_config": {
+    "indicator_start_row": 3
+  },
+  "category_mapping": {},
+  "month_config": {
+    "selected_months": []
+  }
+}
